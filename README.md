@@ -1,6 +1,6 @@
 - 👋 Hola, sóc @AndreiQuerol i este es el meu respositori per al treball de M5
 - 👀 M'interessa aprendre com funciona GitHub
-- 🌱 Actualment estic aprenent a crear rames i ordenar totes le sversions
+- 🌱 Actualment estic aprenent a crear rames i ordenar totes les versions
 - 📫 El meu correu es andreiquerol@iesmontsia.org
 
 <!---
